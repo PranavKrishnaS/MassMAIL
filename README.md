@@ -66,4 +66,6 @@ This feature allows creation of large list like structures called `Bunches` that
 > ### `v2.0`
 - Replay analytics and scheduling
 - Auto detection of recipients list (from spreadsheets, csv files etc.)
+
+#### If you read until here, `MERRY CHRISTMAS AND HAPPY NEW YEAR`
     
