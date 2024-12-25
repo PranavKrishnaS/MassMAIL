@@ -52,20 +52,7 @@ def dashboard_page(page):
         center_title=True,
 
         bgcolor=ft.colors.SURFACE_VARIANT,
-        # actions=[
-        #     ft.PopupMenuButton(
-        #         icon=ft.icons.MENU,
-        #         items=[
-        #             ft.PopupMenuItem(text="Item 1"),
-        #             ft.PopupMenuItem(text="Item 2"),
-        #             ft.PopupMenuItem(text="Item 3"),
-        #             ft.PopupMenuItem(),  # divider
-        #             ft.PopupMenuItem(
-        #                 text="Checked item", checked=False,
-        #             ),
-        #         ]
-        #     ),
-        # ],
+        
     )
 
     def nextTab(e):
