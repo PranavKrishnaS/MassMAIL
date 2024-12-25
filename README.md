@@ -16,6 +16,10 @@ Subject to Network speed, attachment size and device performance.
     4. Embeddable e-mail content and attachments with HTML and CSS [UNDER DEVELOPMENT]
     
 
+##### Prerequisites: Flet (v0.24) All other utilized packages are included in Python installations by default.
+    
+
+
 <br><br>
 
 # The `T.A.S.K` System
