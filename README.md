@@ -40,6 +40,7 @@ This feature allows creation of large list like structures called `Bunches` that
 
 # How to set up your Gmail account for MassMAIL
 - Go to [accounts.google.com](accounts.google.com)
+- Enable 2FA (Two-factor Authentication)
 - On the top, search `App Passwords`
 - Choose the option that says `App passwords (Security)`
 - Type any name for the `App name`
