@@ -38,7 +38,7 @@ def home_page(page: ft.Page):
             # DB <-> Auth
             with open('./data/users.csv') as users:
                 csvreader = csv.reader(users)
-                header = next(csvreader)
+                
                 userExists = 0
                 for row in csvreader:
                     if str(row[1]).lower() == str(user.value).lower() and str(row[2]).lower() == str(pwd.value).lower():
